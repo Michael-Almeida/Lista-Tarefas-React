@@ -86,7 +86,6 @@ class Main extends Component {
           handleEdit={this.handleEdit}
           handleDelete={this.handleDelete}
         />
-
       </div>
     );
   }
